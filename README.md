@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning and exploring
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects which help me learn things with ease
-- 📫 How to reach me mmakj099@gmail.com
+- 📫 How to reach me muaazali099@gmail.com
 
 <!---
 lPurgel/lPurgel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
